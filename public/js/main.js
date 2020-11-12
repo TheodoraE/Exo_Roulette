@@ -32,5 +32,6 @@ do {
 // 36 chiffres 
     // 18 rouge
     // 18 noir
-    // 1 vert
+    // à chaque fois différent
+    // 1 vert => 
 // 3 couleurs : rouge, noir et vert
